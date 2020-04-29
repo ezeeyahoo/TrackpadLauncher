@@ -4,11 +4,7 @@
 <dict>
 	<key>CFBundleExecutable</key>
 	<string>LaunchTrackpad.sh</string>
-	<key>CFBundleDevelopmentRegion</key>
-	<string>English</string>
 	<key>CFBundleIconFile</key>
-	<string>Trackpad.icns</string>
-	<key>CFBundleGetInfoString</key>
-	<string>Trackpad Preference Pane Launcher</string>
+	<string>TrackpadLauncher.icns</string>
 </dict>
 </plist>
